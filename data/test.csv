@@ -1,677 +1,328 @@
-,Text ,Code
-0,Any other updates on Lesson Plans/Workshops?,1
-1,Not from me.,1
-2,Nothing else from me,1
-3,But I create new pr for learn theme.,1
-4,"Yes, and it looks like @juhise submitted one about a week ago as well, thank you both!",1
-5,I'll assign another task for next week.,1
-6,"Whelp, I guess let's have a few minutes for open discussion, any issues on your minds?",1
-7,Hmm I don't have any for now.,1
-8,Nothing at the moment,1
-9,We'll call the meeting in,1
-10,"</meeting> Thanks, as always let us know here in the channel if anyone needs help!",1
-11,"Well, well, well. It's weekly meeting time again!",1
-12,"As usual, all are welcome, as we discuss the happenigns of the week past, and the week ahead, for the various support teams all over! Please do avoid threaded replies, @clorith can't keep up with them",1
-13,"We'll be going through the agenda, as posted at https://make.wordpress.org/support/2020/02/agenda-for-february-20th-support-meeting/ (edited)",1
-14,And first things first; would someone like to do the notes this week ?,1
-15,supervisor @sterndata will take notes,1
-16,I can do notes again this week,1
-17,"(Taking notes is a great way to get more involved in a team, and there's no pre-requisites to doing so 
+text,label
+Any other updates on Lesson Plans/Workshops?,1
+Not from me.,1
+Nothing else from me,1
+But I create new pr for learn theme.,1
+"Yes, and it looks like @juhise submitted one about a week ago as well, thank you both!",1
+I'll assign another task for next week.,1
+"Whelp, I guess let's have a few minutes for open discussion, any issues on your minds?",1
+Hmm I don't have any for now.,1
+Nothing at the moment,1
+We'll call the meeting in,1
+"</meeting> Thanks, as always let us know here in the channel if anyone needs help!",1
+"Well, well, well. It's weekly meeting time again!",1
+"As usual, all are welcome, as we discuss the happenigns of the week past, and the week ahead, for the various support teams all over! Please do avoid threaded replies, @clorith can't keep up with them",1
+"We'll be going through the agenda, as posted at https://make.wordpress.org/support/2020/02/agenda-for-february-20th-support-meeting/ (edited)",1
+And first things first; would someone like to do the notes this week ?,1
+supervisor @sterndata will take notes,1
+I can do notes again this week,1
+"(Taking notes is a great way to get more involved in a team, and there's no pre-requisites to doing so 
  )",1
-18,Lovely! @diddledan it is,1
-19,"All right, WordPress 5.4-beta2 went out yesterday",1
-20,"You can read all about it at https://wordpress.org/news/2020/02/wordpress-5-4-beta-2/, and the Beata Tester plugin has been updated to make beta testing easier and more obvious! (edited)",1
-21,"With beta2 out the door, we are moving closed to the Release Candidate stage (scheduled for March 3rd), at which point we will start workling on the Master List",1
-22,"For those who may not be aware, with each major release of WordPress, the support team generates a primary support topic with pre-emptive responses to things we suspect users may get hung up on in the new version.",1
-23,"I make note of it now, so that we can start subconsciously thinking of what needs to go in the list when the time is right",1
-24,"Are there any big news in this release, besides some new bells and whistles in the block editor?",1
-25,Site Health is more prominent than ever with a dashboard widget,1
-26,The privacy stuff got punted?,1
-27,"The calendar widget's markup is changing, which may or may not affect themes displaying it",1
-28,"I don't think I've made note of any privacy things, I'd have to double check",1
-29,There is an issue with Multi-site compatibility for the unmapping and remapping of privacy caps.,1
-30,There are a lot of small readability type improvements.,1
-31,"As we're moving outside of the support area it feels like, let's move on to the next item on the agenda",1
-32,"Which is checking in with international liaisons! (courtesty ping to @tobifjellner, @hardeepasrani, @cristiano.zanca, @yui, @motchi0214, @valeriosza, @richardvd, @pmfonseca, @fernandot, @xkon, @nikolam, @abdullahramzan, @Kartik Shukla and @FahimMurshed), and of course if you're a member from a non-English speaking part of our community, but not named, please let us know how things are going, these are jsut the ones we have been introduced to so far!",1
-33,"everything is fine on 
+Lovely! @diddledan it is,1
+"All right, WordPress 5.4-beta2 went out yesterday",1
+"You can read all about it at https://wordpress.org/news/2020/02/wordpress-5-4-beta-2/, and the Beata Tester plugin has been updated to make beta testing easier and more obvious! (edited)",1
+"With beta2 out the door, we are moving closed to the Release Candidate stage (scheduled for March 3rd), at which point we will start workling on the Master List",1
+"For those who may not be aware, with each major release of WordPress, the support team generates a primary support topic with pre-emptive responses to things we suspect users may get hung up on in the new version.",1
+"I make note of it now, so that we can start subconsciously thinking of what needs to go in the list when the time is right",1
+"Are there any big news in this release, besides some new bells and whistles in the block editor?",1
+Site Health is more prominent than ever with a dashboard widget,1
+The privacy stuff got punted?,1
+"The calendar widget's markup is changing, which may or may not affect themes displaying it",1
+"I don't think I've made note of any privacy things, I'd have to double check",1
+There is an issue with Multi-site compatibility for the unmapping and remapping of privacy caps.,1
+There are a lot of small readability type improvements.,1
+"As we're moving outside of the support area it feels like, let's move on to the next item on the agenda",1
+"Which is checking in with international liaisons! (courtesty ping to @tobifjellner, @hardeepasrani, @cristiano.zanca, @yui, @motchi0214, @valeriosza, @richardvd, @pmfonseca, @fernandot, @xkon, @nikolam, @abdullahramzan, @Kartik Shukla and @FahimMurshed), and of course if you're a member from a non-English speaking part of our community, but not named, please let us know how things are going, these are jsut the ones we have been introduced to so far!",1
+"everything is fine on 
  forums",1
-34,"All fine in Swedish 
+"All fine in Swedish 
   forum, except one poor user with a wiped site yesterday.",1
-35,all fine in NL,1
-36,"Everything is fine on 
+all fine in NL,1
+"Everything is fine on 
  forums",1
-37,"can only mention a peak in hacked sites, probably related to ThemeGrill demo importer 0day",1
-38,"Or certain other high profiles plugins 
+"can only mention a peak in hacked sites, probably related to ThemeGrill demo importer 0day",1
+"Or certain other high profiles plugins 
  there's been a few",1
-39,"And since we're on the topic, an unannounced little side note from me here. Sharing information taht there's something going down with a plugin is great, it helps us keep on top of things, but please remain neutral, and don't go overbaord.",1
-40,"There's been a lot of unwanted activity relating to this in the past weeks, so please keep it professional",1
-41,"That's all the fixed stuff I had this week, so I'll open the floor up. This section allows for questions or support related items that weren't posted ot the agenda to be brought up by the general community.",1
-42,fixed was released when wordfence released that blog,1
-43,this has quickly turned into a support thread: https://wordpress.org/support/topic/very-good-4480/,1
-44,"I feel like we've sort of slid out of a support question, could we move the rails back towards our area, and mayeb see if anyone else has any questions they'd like to rbing up with the group ?",1
-45,"Since we're clearly not gettign anything more sensible and support related, I'm going to end our weekly chat there then </meeting>",1
-46,"<meeting>
+"And since we're on the topic, an unannounced little side note from me here. Sharing information taht there's something going down with a plugin is great, it helps us keep on top of things, but please remain neutral, and don't go overbaord.",1
+"There's been a lot of unwanted activity relating to this in the past weeks, so please keep it professional",1
+"That's all the fixed stuff I had this week, so I'll open the floor up. This section allows for questions or support related items that weren't posted ot the agenda to be brought up by the general community.",1
+fixed was released when wordfence released that blog,1
+this has quickly turned into a support thread: https://wordpress.org/support/topic/very-good-4480/,1
+"I feel like we've sort of slid out of a support question, could we move the rails back towards our area, and mayeb see if anyone else has any questions they'd like to rbing up with the group ?",1
+"Since we're clearly not gettign anything more sensible and support related, I'm going to end our weekly chat there then </meeting>",1
+"<meeting>
 It's weekly support meeting time!",1
-47,"This is when the support members form around the world get together, look at the week that's been, and the week ahead! All are welcome, please do try to avoid threaded replies, they're impossible to follow though",1
-48,"First up, do we have anyone who would like to take notes ?",1
-49,"All right, I guess we'll just kick off and see, if anyone does wantto take notes, please feel free to do so though !",1
-50,We'll be following the agenda at https://make.wordpress.org/support/2020/02/agenda-for-february-13th-support-meeting/ (edited),1
-51,"First things first, WordPress 5.4, beta 1, was released the other day",1
-52,"This means I'll start nagging you all to test it if you can (don't feel pressured to do so though!), some information about the release, and how to test it can be found at https://wordpress.org/news/2020/02/wordpress-5-4-beta-1/ (edited)",1
-53,"I am travelling, so don't have my handy list of handy pings, but I'll still say that I'd love ot hear how our international liaisons are doing. How are things for those of you in the non-English part of the support world of WordPress ?",1
-54,"all fine 
+"This is when the support members form around the world get together, look at the week that's been, and the week ahead! All are welcome, please do try to avoid threaded replies, they're impossible to follow though",1
+"First up, do we have anyone who would like to take notes ?",1
+"All right, I guess we'll just kick off and see, if anyone does wantto take notes, please feel free to do so though !",1
+We'll be following the agenda at https://make.wordpress.org/support/2020/02/agenda-for-february-13th-support-meeting/ (edited),1
+"First things first, WordPress 5.4, beta 1, was released the other day",1
+"This means I'll start nagging you all to test it if you can (don't feel pressured to do so though!), some information about the release, and how to test it can be found at https://wordpress.org/news/2020/02/wordpress-5-4-beta-1/ (edited)",1
+"I am travelling, so don't have my handy list of handy pings, but I'll still say that I'd love ot hear how our international liaisons are doing. How are things for those of you in the non-English part of the support world of WordPress ?",1
+"all fine 
 
 sad to know that WCAsia 2020 been suddenly cancelled :/",1
-55,All fine in NL,1
-56,"Next on the agenda is checking in with international liaisons (and sending a courtesy ping to @tobifjellner, @hardeepasrani, @cristiano.zanca, @yui, @motchi0214, @valeriosza, @richardvd, @pmfonseca, @fernandot, @xkon, @nikolam, @abdullahramzan, @Kartik Shukla and @FahimMurshed whom are known to us already from the non-english speaking part of our community). Of course if you are from a non-English speaking part and are not named, we would love to hear from you and get to know you, so please let us know how things are going for you.",1
-57,"All fine in italy 
+All fine in NL,1
+"Next on the agenda is checking in with international liaisons (and sending a courtesy ping to @tobifjellner, @hardeepasrani, @cristiano.zanca, @yui, @motchi0214, @valeriosza, @richardvd, @pmfonseca, @fernandot, @xkon, @nikolam, @abdullahramzan, @Kartik Shukla and @FahimMurshed whom are known to us already from the non-english speaking part of our community). Of course if you are from a non-English speaking part and are not named, we would love to hear from you and get to know you, so please let us know how things are going for you.",1
+"All fine in italy 
  (edited)",1
-58,All fine in Bangladesh,1
-59,"Re: WCAsia, the health concerns need to take priority. It’s sad indeed. I wish everyone in the Asia region to be safe and well.",1
-60,My new challenge is to make known the existence of a forum for pt_AO,1
-61,Is there anything you can think of that we could help with ?,1
-62,pt_AO for the abbreviation-challenged?,1
-63,"Btw, all right in Brazil",1
-64,Any other international topics we should be looking to ?,1
-65,"all fine and lovely in 
+All fine in Bangladesh,1
+"Re: WCAsia, the health concerns need to take priority. It’s sad indeed. I wish everyone in the Asia region to be safe and well.",1
+My new challenge is to make known the existence of a forum for pt_AO,1
+Is there anything you can think of that we could help with ?,1
+pt_AO for the abbreviation-challenged?,1
+"Btw, all right in Brazil",1
+Any other international topics we should be looking to ?,1
+"all fine and lovely in 
  as always lateeeee",1
-66,i saw the WP page in FB cancelled these meetups due to the coronavirus,1
-67,"I think this might also be a good time to just open the floor up for any questions or concerns that are not previously mentioned in the agenda post. This is open for all users, but please do keep them about support-related topics!",1
-68,Any other open floor tickets before I have to move to get to my gate on time ?,1
-69,"If there's nothing else then, we can close the official meeting hours with a </meeting>, but please do continue to discuss and help each other out!",1
-70,"It's weekly support meeting time, so come one, come all!",1
-71,"During this hour (or less), we look at the past week, and the week ahead for the various support teams around our wonderful little planet",1
-72,"Everyone is welcome to participate, but we do ask that you avoid threaded replies, they're terribly hard ot keep track of.",1
-73,Let's jump straight into some General announcements,1
-74,"Only really one lined up, a quick summary of the bug scrub/ticket triage from earlier this week, which focused on the tickets marked as high and low importance, to see if any needed re-classifying as things have changed in the time they've existed.",1
-75,"Some were closed, some were moved to other priority labels, all in all a good session, and thanks to those who had a chance to attend and help pass judgment :)",1
-76,Does anyone have any announcements I've missed that should be noted ?,1
-77,"Oh, right, we're still looking to have someone volunteer to take notes for the meeting (this is not a fixed position, you're not required to do it every week, we'll put forth a call with every meeting, so if anyone is interested in taking notes, please step forth and let it be known 
+i saw the WP page in FB cancelled these meetups due to the coronavirus,1
+"I think this might also be a good time to just open the floor up for any questions or concerns that are not previously mentioned in the agenda post. This is open for all users, but please do keep them about support-related topics!",1
+Any other open floor tickets before I have to move to get to my gate on time ?,1
+"If there's nothing else then, we can close the official meeting hours with a </meeting>, but please do continue to discuss and help each other out!",1
+"It's weekly support meeting time, so come one, come all!",1
+"During this hour (or less), we look at the past week, and the week ahead for the various support teams around our wonderful little planet",1
+"Everyone is welcome to participate, but we do ask that you avoid threaded replies, they're terribly hard ot keep track of.",1
+Let's jump straight into some General announcements,1
+"Only really one lined up, a quick summary of the bug scrub/ticket triage from earlier this week, which focused on the tickets marked as high and low importance, to see if any needed re-classifying as things have changed in the time they've existed.",1
+"Some were closed, some were moved to other priority labels, all in all a good session, and thanks to those who had a chance to attend and help pass judgment :)",1
+Does anyone have any announcements I've missed that should be noted ?,1
+"Oh, right, we're still looking to have someone volunteer to take notes for the meeting (this is not a fixed position, you're not required to do it every week, we'll put forth a call with every meeting, so if anyone is interested in taking notes, please step forth and let it be known 
  )",1
-78,"Note taking is a great way to start getting familiar with a team and a great intro to contributing, there's no requirements on pre-existing knowledge or anything of the sorts!",1
-79,"OK, I'll take notes.",1
-80,I volunteer to join the committee.,1
-81,"Next on the agenda is checking in with international liaisons (and sending a courtesy ping to @tobifjellner, @hardeepasrani, @cristiano.zanca, @yui, @motchi0214, @valeriosza, @richardvd, @pmfonseca, @fernandot, @xkon, @nikolam, @abdullahramzan, @Kartik Shukla and @FahimMurshed whom are known to us already from the non-english speaking part of our community). Of course if you are from a non-English speaking part and are not named, we would love to hear from you and get to know you, so please let us know how things are going for you.",1
-82,"How are things going, is there anything we can help y'all with in any way, or has something exciting happened in the past week (or next week) that you would like to share ?",1
-83,Oh. Hi all. Everything is fine in Swedish forum,1
-84,"All fine in the Dutch 
- forum",1
-85,"Hi,
-I am sorry, missed last two weekly chats. All fine in the Urdu 
- forum. (edited)",1
-86,"One weird thing we troubleshooted in Swedish forum was failed saving of edits in block editor when accessing wp-admin via https, where site URL was set to http and some scripts got blocked by Chrome. I don't know if this is reproducible as such, or if some additional circumstances need to be present for the error to happen.",1
-87,"all good in 
- !",1
-88,"Going to carefully slide on over ot the next agenda item by @JNash, I'll let them go through what they wanted to cover, because honestly, there were many things and I don't feel like I could do it justice by paraphrasing it",1
-89,"Not sure if they're around, will give a couple minutes before moving on then and we can pick it up again later if they're not around so that I don't misunderstand what they wanted ot bring up",1
-90,Everything ok at,1
-91,"All right, I'm going to move on to open floor then for now.",1
-92,"This is the portion where any item not previously covered in the agenda may be brought up if it relates to the support teams, questions, concerns, happy thoughts, it's all welcome",1
-93,"In 
- all fine",1
-94,"Any way, we are nearing the top of the hour, so we should start wrapping this up",1
-95,Quick FYI about no-js: https://core.trac.wordpress.org/ticket/49378,1
-96,"And with that I'll do a </meeting> so taht y'all can go about your business, but I encourage further discussions, and would love to hear who wishes to make said ticket",1
-97,"All righty, it's weekly support meeting time!",1
-98,"For anyone new, this is where support team members from around the community from all over the world come together to share their experiences from the week past, and the week ahead!",1
-99,"Everyone is of course welcome ot participate, there's no requirements to join",1
-100,"First agenda item, note taker!",1
-101,"Would anyone like to start out by taking notes form the meeting? (This is a great way to get more involved as well, or to start out contributing)",1
-102,Can I voluntold Steve?,1
-103,"(If not, I'll do it.)",1
-104,"I'm not here to force anyone, just offering an easy way to get more involved for those who may wish to do so",1
-105,"A few too many plates on me at the moment, but I’m here to listen and occasionally say something.",1
-106,"We'll slide along then for now, no worries! We have few fixed items this week taht require a lot of decision making",1
-107,"First up, General announcements, always a fun way to start",1
-108,"WordCamp Asia is coming up (you may recall me asking for volunteers to run the support table a week ago), and in light of this, a few posts ahve popped up from the community team which are worth giving a read",1
-109,https://make.wordpress.org/updates/2020/01/27/wceu-2020-leave-no-contributor-behind/ and https://make.wordpress.org/community/2020/01/29/get-involved-table-at-wordcamp-asia-2020/ (edited),1
-110,"WordPress 5.4 is also progressing nicely, and we're expecting Beta 1 around February 11th (with a release date scheduled for March 31st at this time)",1
-111,Does anyone else have any announcement items we should be including ?,1
-112,"All right, then we'll move along to Checking in with international liaisons (Where we also send a courtesy ping to our known friends @tobifjellner, @hardeepasrani, @cristiano.zanca, @yui, @motchi0214, @valeriosza, @richardvd, @pmfonseca, @fernandot, @xkon, @nikolam, @abdullahramzan, @Kartik Shukla and @FahimMurshed).
-During this segment, we like ot hear how things are going in the non-English parts of our community, if there's anything happening, if there's anything we can help each other with, and so forth.
-Of course, if you are not named, but are from a non-English speaking part of the community, we would love to hear from you, and you're all welcome to share!",1
-113,everything is fine,1
-114,everything is fine.,1
-115,All great in Brazil,1
-116,"Hi. All fine in quiet, nice Swedish forum. sneaks out. Will read back later.",1
-117,"And with our international friends around, I'd also like to bring up an item that came to be last night; Support Forum ticket triage!",1
-118,"Meta has a bit of a support forum focus right now, as it's the component with most tickets, and to help that work along, it would be beneficial to do a triage of tickets to help prioritize, and clean up no longer relevant items.",1
-119,"Basically, we're doing a bug scrub (for those who are more familiar with that term). We did one last year around this time, so it makes sense to do one now as well.",1
-120,"With all that information in mind, would anyone be interested in joining me for a little scrub, and if so, what days/times are most beneficial to you all ?",1
-121,That's the same time as my support team's meeting. So I could pop in afterwards,1
-122,"And with those wise words, we can say Open floor.
-During this segment, any questions, concerns, or just feedback in general, relating to the support teams may be brought forth. Everyone is welcome to step up, we're a rather friendly crowd at heart",1
-123,IT's becomign a bit too off-topic for a very on-topic point,1
-124,"Just a note that we are 5 minutes off the hour, so if anyone has any other open floor items they'd like ot bring forth, now is the time",1
-125,"So without further ado, I thank you all for stopping by for this weeks chat, and I will call an end to the </meeting>
-Everyone is of course welcome ot keep the conversation going, we're here every day after all",1
-126,It's weekly <meeting> time for the support crew!,1
-127,"This is where support volunteers from all over WordPress gather to look at the week that's been, and the week ahead. There's no requirements ot take part, but we do ask that you avoid threaded replies, they're terribly hard ot keep track of",1
-128,"For those who like to follow along at home, this weeks agenda is available at https://make.wordpress.org/support/2020/01/agenda-for-january-23rd-support-meeting/ (edited)",1
-129,"First up, would anyone like to take notes this week? (Note-taking is also a great start in getting involved)",1
-130,"No hands for notes? (or were any of those hands for notes and not just ""hello"" hands? 
- )",1
-131,"All right, we'll roll along, but one of these days, I will make someone volunteer for this, it would be nice to have a few other folks on the regular for notes in cases where yours truly may not be able to make it 
- (backups are good!)",1
-132,"All right, we're sliding a bit away now, so I think this is a good spot to change topics",1
-133,"We've hit that point of the evening, where I throw a courtesy ping ot some of our regular international liaisons (@tobifjellner, @hardeepasrani, @cristiano.zanca, @yui, @motchi0214, @valeriosza, @richardvd, @pmfonseca, @fernandot, @xkon, @nikolam, @abdullahramzan, @Kartik Shukla and @FahimMurshed), to see how things are going out in the wider world. We of course welcome the input from any other unnamed individuals from non-English speaking parts of our community as well to hear how you are doing. Is there anything we can help you with, or that you would like to share with us all, we're here to help you get the most out of your time.",1
-134,here all fine,1
-135,All fine in the Dutch forums,1
-136,all ok,1
-137,all good in,1
-138,Hi. Just got home. All fine in Swedish forum.,1
-139,Our translation is incomplete,1
-140,I've never actually checked it out.  Just used the English version.,1
-141,"Is there anything we can help with, or that you'd like to share from your respective areas ?",1
-142,All good in,1
-143,"And with you all here, I'm also very curious how you all feel about the new agenda format?",1
-144,"Also related to rosetta, will any of you lovely people be attending WordCamp Asia? They are looking for someone to lead the support table at contributor day",1
-145,"All right, if anyone is going and would like to give it a try, please feel free to send me a direct message, or mention me in the channel",1
-146,"We are getting close to the hour, so any last minute items anyone would like to bring to open floor (the segment where anything relating to the support teams is welcome from anyone) ?",1
-147,"We are past the hour, so I'm going to close the official </meeting> time, but please feel free to keep the discussion going, it's good to see, and I'll not post anything until they're all done",1
-148,"Hello hello hello, it's weekly <meeting> time!",1
-149,"For any newcomers, this is our weekly meeting slot, where the support team members from around the world gather to see how things are going, how has the week been, and what is expected from the week ahead. All are welcome, but please do try to avoid threaded replies, they're terribly hard to keep track of :)",1
-150,"Todays agenda, for those that like to follow at home, is available at https://make.wordpress.org/support/2020/01/agenda-for-january-16th-support-meeting/ (edited)",1
-151,Let's kick things off with some general announcements,1
-152,"Not much to announce, but I changed the meeting agenda format a little going forward (I'll tweak it a little bit more for e-mail readability for those who receive them that way)",1
-153,"The primary focus for the agenda change is to make it more obvious what each section is about, and hopefully friendlier to any new faces",1
-154,First item on the agenda; Goals for 2020,1
-155,"I'm just going to throw out our courtesy ping ot the international liaisons as well (@tobifjellner, @hardeepasrani, @cristiano.zanca, @yui, @motchi0214, @valeriosza, @richardvd, @pmfonseca, @fernandot, @xkon, @nikolam, @abdullahramzan, @Kartik Shukla and @FahimMurshed), as this is a conversation they may be interested in taking part in as well",1
-156,"All fine in the Dutch 
- forums",1
-157,"I'll be doing more with it at work development wise, so hopefully I'll be able to pass on some knowledge as I learn.",1
-158,here all fine,1
-159,all fine,1
-160,here is fine,1
-161,"I had a support topic on my theme, in Russian. I have a bookmarklet for translating, but most people do not, so I was thinking a link somewhere might help people. I don't know where or how, just thought of it.",1
-162,All good on Swedish forums,1
-163,"All goody good here! We're starting our setups for WCAthens 2020! 
- ( late as always 
- ) (edited)",1
-164,"If someone wants to spearhead that, I'm all for it, but we had a lack of volunteers last time",1
-165,"Well, if someone wants to take the reins on this, I'll be available to help you with what you may need ot get things rolling, but I know I don't have the capacity to plan it in full",1
-166,"All right, let's see if we can get some Open floor items in at the end here.
-Open floor is when any question, comment or concern relating ot the support team may be brought forward, even if it wasn't already on the agenda, everyone is welcome to partake!",1
-167,"We're nearing the top of the hour, any other last minute open floor items anyone would like to bring up ?",1
-168,"All right then, and with that I will say </meeting> and end it there for this week. Thank you all for your time!",1
-169,Most of the time I find spam folder empty. Obviously all of us doing good job keeping it that way.,3
-170,"Approving pending could let many things loose, and should be reserved those who are trusted to put it there in the first place",3
-171,Do you have anyone in mind who you'd offer that power to that you would not trust as a mod? (I don't expect you to name names.,3
-172,"Yeah, I check the spam queue hourly, but only when I’m online.",3
-173,"Yeah. Spam can be very obvious, but often you need to dig deeper to really tell it apart.",3
-174,"If I wake up before Jan, I the pending queue can be quite long. But I'm rarely up that early.",3
-175,"I do it when I wake up, and around lunch as a minimum",3
-176,And I'm automated at that time.,3
-177,"Yeah, our mod team has a heavy weight towards Americas time zones.",3
-178,When I wake up some of the pending is 6 hours old.,3
-179,You wake up just before my lunch,3
-180,I wasn't concerned about the 'spcial users' missing one or two as the effectiveness of faster proactivity in getting those potential spams into the queue,3
-181,Who would have to put the role in place? It sounds like something above trac.,3
-182,What are actionable steps that we would like to take on this ?,3
-183,"No, making roles is literally trac tickets with patches, it's all plugins",3
-184,Either all that ↑↑ or get a couple of new mods in Asia and Europe/Africa...,3
-185,"Keep in mind that the forum component is the largest one at this time with the most open tickets, and there's things that I would consider more important that has been waiting for quite some time so this would not be a priority action",3
-186,Investigate the potential of creating the new role and then creating that role then testing carefully and assigning the people,3
-187,Sounds like the first actionable step is create a trac ticket to discuss further then and see if anyone wants to grab the reins on it. (edited),3
-188,"All right, we've hit the hour, so first step, make a ticket for async discussions on it so that those not able to attend can voice their opinions.",3
-189,We'll determine followup steps depending on the outcome there.,3
-190,Any take-aways from that discussion right before the meeting? (like a new Pre-defined reply or something?),3
-191,Sure. Go ahead and write it.,3
-192,Jan's follow-up reply was pretty good.,3
-193,Ha! I'm not known for my tact. Quite the opposite...,3
-194,"A predefined reply seems like it might not help. Each time the discussion has come up, it's been different enough that I couldn't (off the top of my head right this moment) think of a predefined reply that would answer it.",3
-195,"I think the key is to acknowledge the actual problem - if we know what it is.
+"Note taking is a great way to start getting familiar with a team and a great intro to contributing, there's no requirements on pre-existing knowledge or anything of the sorts!",1
+"OK, I'll take notes.",1
+I volunteer to join the committee.,1
+"Next on the agenda is checking in with international liaisons (and sending a courtesy ping to @tobifjellner, @hardeepasrani, @cristiano.zanca, @yui, @motchi0214, @valeriosza, @richardvd, @pmfonseca, @fernandot, @xkon, @nikolam, @abdullahramzan, @Kartik Shukla and @FahimMurshed whom are known to us already from the non-english speaking part of our community). Of course if you are from a non-English speaking part and are not named, we would love to hear from you and get to know you, so please let us know how things are going for you.",1
+"How are things going, is there anything we can help y'all with in any way, or has something exciting happened in the past week (or next week) that you would like to share ?",1
+Oh. Hi all. Everything is fine in Swedish forum,1
+Most of the time I find spam folder empty. Obviously all of us doing good job keeping it that way.,3
+"Approving pending could let many things loose, and should be reserved those who are trusted to put it there in the first place",3
+Do you have anyone in mind who you'd offer that power to that you would not trust as a mod? (I don't expect you to name names.,3
+"Yeah, I check the spam queue hourly, but only when I’m online.",3
+"Yeah. Spam can be very obvious, but often you need to dig deeper to really tell it apart.",3
+"If I wake up before Jan, I the pending queue can be quite long. But I'm rarely up that early.",3
+"I do it when I wake up, and around lunch as a minimum",3
+And I'm automated at that time.,3
+"Yeah, our mod team has a heavy weight towards Americas time zones.",3
+When I wake up some of the pending is 6 hours old.,3
+You wake up just before my lunch,3
+I wasn't concerned about the 'spcial users' missing one or two as the effectiveness of faster proactivity in getting those potential spams into the queue,3
+Who would have to put the role in place? It sounds like something above trac.,3
+What are actionable steps that we would like to take on this ?,3
+"No, making roles is literally trac tickets with patches, it's all plugins",3
+Either all that ↑↑ or get a couple of new mods in Asia and Europe/Africa...,3
+"Keep in mind that the forum component is the largest one at this time with the most open tickets, and there's things that I would consider more important that has been waiting for quite some time so this would not be a priority action",3
+Investigate the potential of creating the new role and then creating that role then testing carefully and assigning the people,3
+Sounds like the first actionable step is create a trac ticket to discuss further then and see if anyone wants to grab the reins on it. (edited),3
+"All right, we've hit the hour, so first step, make a ticket for async discussions on it so that those not able to attend can voice their opinions.",3
+We'll determine followup steps depending on the outcome there.,3
+Any take-aways from that discussion right before the meeting? (like a new Pre-defined reply or something?),3
+Sure. Go ahead and write it.,3
+Jan's follow-up reply was pretty good.,3
+Ha! I'm not known for my tact. Quite the opposite...,3
+"A predefined reply seems like it might not help. Each time the discussion has come up, it's been different enough that I couldn't (off the top of my head right this moment) think of a predefined reply that would answer it.",3
+"I think the key is to acknowledge the actual problem - if we know what it is.
 Explaining that the site is misconfigured is helpful.",3
-196,Many of us use our own pre-defines for those things we touch upon often.,3
-197,"The point, too, is that we're not WIX and don't control user sites.",3
-198,"Also, specifically remembering that users do not understand how the ""supply chain"" works for WordPress helps.",3
-199,"""supply chain""?",3
-200,what I think actually happened in that case was the spam email referenced a form on a website... Could have been any website. we can't control what someone writes in a email. I don't think the form had anything to do with the generation of that spam.,3
-201,We're also not a company and that needs to be clearer. This is a community.,3
-202,"That WordPress.org sites are not hosted by WordPress.org, @t-p",3
-203,"I received an email along those lines - someone wrote to the Polymer Project mailing list complaining that ""Polymer is hacking my system. Stop it.""",3
-204,"And how to find the right ""person"" to report an issue an ""outsider"" discovered. Outsider, as in, someone that doesn't use WordPress and/or doesn't own the site where the issue occurs",3
-205,Is my answer for https://wordpress.org/support/topic/question-about-appropriateness-of-posts-here/ appropriate? (As I'm the one who archived the OP's other post.),3
-206,... so it's not just W.org that gets misidentified,3
-207,We can have a support/doc/article that explains it better. But I find that people and their roles should not be defined by other people's misunderstandings.,3
-208,That was a good reply Steve.,3
-209,Doug said recently that they still get e-mails at WooCommerce that someone's product hasn't been delivered...,3
-210,It definitely happens.,3
-211,I felt I actually covered the 'not hosted here' and the 'right way to report a received spam' and 'who to report to'.,3
-212,We have this https://docs.woocommerce.com/document/built-with-woocommerce/,3
-213,"I skimmed it (note: I barely woke up when I skimmed it so...) and didn't feel that the replies showed any empathy that the person was obviously getting so much spam that they took time to track all this down and thought they found the right people. It felt like we said, Tough luck. Not our problem.",3
-214,Which opens another idea: these aren't forums converting people to WordPress. I'm not taking a dig at anyone but the forums work because of their focus for support.,3
-215,"Which opens another idea: these aren't forums converting people to WordPress
+Many of us use our own pre-defines for those things we touch upon often.,3
+"The point, too, is that we're not WIX and don't control user sites.",3
+"Also, specifically remembering that users do not understand how the ""supply chain"" works for WordPress helps.",3
+"""supply chain""?",3
+what I think actually happened in that case was the spam email referenced a form on a website... Could have been any website. we can't control what someone writes in a email. I don't think the form had anything to do with the generation of that spam.,3
+We're also not a company and that needs to be clearer. This is a community.,3
+"That WordPress.org sites are not hosted by WordPress.org, @t-p",3
+"I received an email along those lines - someone wrote to the Polymer Project mailing list complaining that ""Polymer is hacking my system. Stop it.""",3
+"And how to find the right ""person"" to report an issue an ""outsider"" discovered. Outsider, as in, someone that doesn't use WordPress and/or doesn't own the site where the issue occurs",3
+Is my answer for https://wordpress.org/support/topic/question-about-appropriateness-of-posts-here/ appropriate? (As I'm the one who archived the OP's other post.),3
+... so it's not just W.org that gets misidentified,3
+We can have a support/doc/article that explains it better. But I find that people and their roles should not be defined by other people's misunderstandings.,3
+That was a good reply Steve.,3
+Doug said recently that they still get e-mails at WooCommerce that someone's product hasn't been delivered...,3
+It definitely happens.,3
+I felt I actually covered the 'not hosted here' and the 'right way to report a received spam' and 'who to report to'.,3
+We have this https://docs.woocommerce.com/document/built-with-woocommerce/,3
+"I skimmed it (note: I barely woke up when I skimmed it so...) and didn't feel that the replies showed any empathy that the person was obviously getting so much spam that they took time to track all this down and thought they found the right people. It felt like we said, Tough luck. Not our problem.",3
+Which opens another idea: these aren't forums converting people to WordPress. I'm not taking a dig at anyone but the forums work because of their focus for support.,3
+"Which opens another idea: these aren't forums converting people to WordPress
 They should never be a barrier to other people trying to convert people to WordPress though.",3
-216,It's not a barrier to be focused on solving user's problems and helping.,3
-217,these aren't forums converting people to WordPress,3
-218,"They're support forums, we're here to help users, and we can be good community stewards by being kind to them and helping them even if they're not using WordPress, so they knwo where to go",3
-219,AFAIK the forums are focused on solving tangible (that's important) problems users have with WordPress.,3
-220,I was trying to explain that the forums are for user's of WordPress who have problems. If the OP isn't using WordPress then that topic is kinda circular and pointless. NOT BEING RUDE.,3
-221,Then let someone else answer,3
-222,"If the OP is not important to you (which is just fine, nothing wrong with that), they may be to someone else.",3
-223,Even if that requires collab with marketing.,3
-224,So... my answer and attempts to help is invalid? That's a great motivator.,3
-225,"It's important to remember that people outside of this immediate circle don't know our rules/policies, and come seeking help with for their problems. It doesn't matter if we think that those problems are 'off topic'; we still need to give them a good experience. We can definitely defer/delegate on that.",3
-226,Not at all what I said,3
-227,"But it's easy to say ""I'm sorry this is happening"" and help the person find the right people to help.",3
-228,"@jan_dembowski By providing good, clear, support, and helping people, we help with WP retention, fwiw.",3
-229,Agreed.,3
-230,So we are converting people to stay,3
-231,"I'm saying if it isn't important to you, that will come through to the OP.",3
-232,It was important to me to try and explain to the OP. (edited),3
-233,"First up this week, a proposed addition to the guidelines, after observing for some time that links lead to confusion and misunderstandings back and forth, let's note down something set in stone about them to hopefully also make moderator tasks more consistent.",3
-234,"I made a proposal along the lines of
+It's not a barrier to be focused on solving user's problems and helping.,3
+these aren't forums converting people to WordPress,3
+"They're support forums, we're here to help users, and we can be good community stewards by being kind to them and helping them even if they're not using WordPress, so they knwo where to go",3
+AFAIK the forums are focused on solving tangible (that's important) problems users have with WordPress.,3
+I was trying to explain that the forums are for user's of WordPress who have problems. If the OP isn't using WordPress then that topic is kinda circular and pointless. NOT BEING RUDE.,3
+Then let someone else answer,3
+"If the OP is not important to you (which is just fine, nothing wrong with that), they may be to someone else.",3
+Even if that requires collab with marketing.,3
+So... my answer and attempts to help is invalid? That's a great motivator.,3
+"It's important to remember that people outside of this immediate circle don't know our rules/policies, and come seeking help with for their problems. It doesn't matter if we think that those problems are 'off topic'; we still need to give them a good experience. We can definitely defer/delegate on that.",3
+Not at all what I said,3
+"But it's easy to say ""I'm sorry this is happening"" and help the person find the right people to help.",3
+"@jan_dembowski By providing good, clear, support, and helping people, we help with WP retention, fwiw.",3
+Agreed.,3
+So we are converting people to stay,3
+"I'm saying if it isn't important to you, that will come through to the OP.",3
+It was important to me to try and explain to the OP. (edited),3
+"First up this week, a proposed addition to the guidelines, after observing for some time that links lead to confusion and misunderstandings back and forth, let's note down something set in stone about them to hopefully also make moderator tasks more consistent.",3
+"I made a proposal along the lines of
  Public links in plugin or theme support topics may only be posted if they are to the creators official site or support resource.",3
-235,"Basically, other users can then also provide the links to documentation, but only if they are on the official site for support/documentation of that plugin/theme",3
-236,I think that is a very reasonable suggestion.,3
-237,W.org links should also be allowed methinks,3
-238,Or 3rd party sites such as wpbeginer.,3
-239,This way there is no grey area of linking to your own personal site because it has the documentation as well,3
-240,I often point people at real W.org docs to explain a feature of my plugin,3
-241,s/wpbeginer/reputable 3rd party site/,3
-242,"W.org links are self-proclaimed OK, always, but yes",3
-243,"So, what about a less well-known third party site, Jan?",3
-244,"No, now wpbeginners, nothing else external at all",3
-245,Who decides what is reputable?,3
-246,but who defines reputable 3rd party site?,3
-247,"Once you open up an inch, the floodgates burst.",3
-248,I'm good with closing the door then.,3
-249,"If I can't link to 3rd party sites, it's going to be difficult. I use a page from a2hosting a log, as well as wpbeginner.",3
-250,If you’re a plugin/theme dev and you often find yourself linking to third-party sites … you need better docs.,3
-251,"This is basically a ""nothing else, we're done"", or else we'll end up, as noted, with folks discussing the reputation of ""their fav 3rd party site""",3
-252,I am very OK with that reasoning.,3
-253,"This is my thoughts on the matter though, and I'm bringing them up in as public a way as possible since it'll affect how mods interact with users in many cases",3
-254,"And we are not okay with linking to sales landing pages for the plugin / theme, even if it is on their official site, right?",3
-255,"So this is just for Plugin / Theme Support Forums, not the other more general support forums?",3
-256,"Yes, specifically for plugins/themes at this time",3
-257,"For anything outside of that, it's a bit more difficult to police, as mentioned, lots of 3rd party sites have good documentation on specific usage that is too special for w.org to document for example, so a link there is perfectly fine (although we prefer it if they post it on the forums so it's not lost to links long gone)",3
-258,"Cool, I would debate more if it was an overarching rule on the general forums but in theory plugins/theme support should come from the developers.",3
-259,"This is less about prohibiting links and stifling information sharing, and more about reducing the noise specific to plugins/themes where they should have an official place to go in the first place.",3
-260,It’s fair to link if it’s in answer to a question (How much does x cost?) but yeah don’t go overboard.,3
-261,"Also, it comes off a bit spammy if someone trolls someone else's support forums for publicity.",3
-262,"I think some users find it helpful supporting large plugins they're familiar with but they shouldn't be spamming 3rd party links either 
- (edited)",3
-263,"Of course, and they can keep doing that, but link to the official plugin/theme docs, and not their own site if they need to",3
-264,and that's fine - you can certainly write out step by step how to handle some particular issue,3
-265,"but as far as documentation - go to the plugin ""source""",3
-266,"if a user is in the wrong place can we point them to the correct place, such as highlighting the site for the plugin they're actually using that they've confused with yours?",3
-267,"I'm okay with that.  I meant no unsolicited sales pitches.  That is a bit spammy too.
-""The specific feature you are asking about is a premium-only feature"" seems okay"", but linking to your sales landing pages just because you are allowed to link to your own site isn't, in my opinion.",3
-268,if a user is in the wrong place can we point them to the correct place,3
-269,"And also link to the plugins own support forums for further discussions, or else you'll end up in another plugins forum doing unrelated support",3
-270,Predefined replies are good for that.,3
-271,"Moderators can also move threads to specific plugin/theme forums. I tend to do that if no one has replied yet, just shuffle it over to the right place.",3
-272,So that means we shouldn't offer any help if they asked in the wrong place?,3
-273,It’s best not to.,3
-274,Or help by directing them to the right place.,3
-275,"we should point the right place, not leave them alone",3
-276,Pointing makes sense. Leaving a link to the right forum,3
-277,"and add the #new-post anchor, too",3
-278,"it's more a problem with the ""other plugin"" being non-w.org-hosted",3
-279,I usually refer to WPMUDev also. I'd like to be able to continue doing that as they are multisite experts and plugin providers.,3
-280,Then an external link seems warranted.,3
-281,"Don't do it in non-WPMUDev plugin's or themes support forums, you can stil lreference them i ngeneric topics unrelated to plugins or themes specifically",3
-282,"(I'll also outline a separate, stand-alone, post about the new guideline, to make sure we cover any potential questions others might have, and that can be referenced to authors and such)",3
-283,Naturally links should be relevant to the question being asked - wherever it is asked.,3
-284,"So, standard footers !== okay.",3
-285,So does this mean we can't link to Google/Facebook/GitHub/Stack Overflow documentation?,3
-286,"""Yes"", in so far that if you want to link to an issue on the Yoast GitHub repo, for a Yoast support question, go for it",3
-287,But don't link off to some facebook group for example,3
-288,"standard footers !== okay
-Never have been. 
-[Signature links removed by moderator per <a href=""https://wordpress.org/support/guidelines/#do-not-spam"">forum guidelines</a>.]",3
-289,https://wordpress.stackexchange.com/ I think is useful (edited),3
-290,"As far as I understood, linking to .org resources is okay.",3
-291,"For a generic question, sure, for a plugin or theme specific one, not so much",3
-292,"(For reference, Stack Overflow doens't allow links at all, because information is then lost, and they ask that you post the result directly)",3
-293,for a plugin or theme specific always link to the author (edited),3
-294,"SO is definitely not an official .org resource, but yeah linking there is probably fine. (edited)",3
-295,We send people to Stack Overflow from Slack all the time. (edited),3
-296,"Although, coming to think of it, the development sub-forums may be a better choice in terms of brand building",3
-297,"So in a Yoast support topic, we can no longer link to say a WordFence, Sucuri  article. I just want to be 100% clear so I can review and update the Yoast support teams shared saved replies.",3
-298,"@amboutwe If it's an announcement, I would give a plugin or theme author the benefit of the doubt in such a scenario. We'll of course still use common sense.",3
-299,"The primary concern has been regular users helping out, and using it to build them selves up with links to their own sites to answer questions and such",3
-300,"Plus, giving credit is just the decent thing to do...",3
-301,"If it’s relevant directly to the answer, for example if they’re using Wordfence or Sucuri and that’s the problem, definitely.
-If you’re using it because you don’t have docs that cover it, I strongly recommend making your own cool docs. 
- (edited)",3
-302,I was thinking more along the lines of sitemap doesn't work cause you need to add an exception to cache. Here's the steps on how to do that for [insert cache plugin's official doc link] (edited),3
-303,because the user said they had this specific cache plugin,3
-304,That would be 100% perfect.,3
-305,"That would be relevant, since the problem at the root is the cache plugin",3
-306,"The consensus was that the rule only applies to the theme / plugin sub-forums and that wpbeginner links, etc. (if relevant) are still okay elsewhere.",3
-307,But not if they are to your own site as that is considered self promotional,3
-308,Right?,3
-309,"And since we don't want to make determinations for everyone who is reputable and who isn't, a personal blog tutorial should be okay.  Again, if relevant (and outside of plugin / theme support).",3
-310,"In the editor channel, someone asked about not a valid JSON response and got this reply https://wordpress.slack.com/archives/C02QB2JS7/p1579183784196200?thread_ts=1579182653.195700&cid=C02QB2JS7
-Can we put this somewhere in Support?",3
-311,"It's already in the master list if I recall (not with those words, but the gist is the same)",3
-312,Nobody reads that,3
-313,Or maybe in the Pre-defined page.,3
-314,"where else would you put it, where it has a minor chance of being read?",3
-315,"That's besides the point though, it's there, it's then up to those of us who know about it to link to it for users who may be stuck",3
-316,"It basically goes in under the default ""Disable all plugins and try a default theme"" troubleshooting step",3
-317,"Well, I have read the master list before, but not lately. So I forget about it.",3
-318,"If a user were to search for ""not a valid JSON response"", would they find an article explaining it?",3
-319,"If someone linked to it in a support forum, yes",3
-320,"""not a valid JSON response"" is too vague to write a full article about, because it can be so many different things",3
-321,"Well, that blurb from Andrew is a good explanation for why that is.",3
-322,"Well, his text says ""it's probably a plugin, but it may just be your server as well"", that makes it very vague, so you'd need to guide them to do the trobuleshooting steps and then take it from there",3
-323,That is good idea. Now it reminds me there will be contributor day at WCAsia. Who are coming?,2
-324,"Yeah, it's barely one month away!",2
-325,"Ok, interesting!",2
-326,Are you going @chetan200891?,2
-327,"Yes, I am going",2
-328,Will have to give it a miss this year but will try for next year.,2
-329,https://2020.asia.wordcamp.org/contributor-day/ Here is schedule. But I hope we can get training table there. (edited),2
-330,"Do we need to reach out in #wcasia to see who we can talk to about arranging that, Chetan?",2
-331,"I'll be at WordCamp Lancaster PA March 14th & WordCamp DC March 27-29, 2020.",2
-332,Yes we should.,2
-333,I have asked two people but waiting for reply since few days.,2
-334,"I’m on the org team for WordCamp Chicago, if any interest for a meetup or someting.",2
-335,May 2 -3,2
-336,"OK, @chetan200891 let's go ahead and ask in the public channel, sometimes that's better to get the right people",2
-337,"Though, maybe wait till a reasonable hour for Asia",2
-338,"Scott and Courtney, we'd definitely appreciate your assistance with setting up Training for your Contributor days. As organizers, you'll probably be too busy to actually run the table, do you know anyone local who might want to join up ahead of your camps?",2
-339,Due to my time zone the hours adjustment hasn't made a big difference so I'm not too worried about changing the time.,2
-340,I missed most of last week’s session cause of daylight saving but have amended this moving forward. Probably just need a prompt next time we change over.,2
-341,"For those of us in the western half of North America, it's quite early in the morning. I know @aurooba and I at least are affected",2
-342,"The meeting time is OK to me, and I think it's OK in my timezone. (edited)",2
-343,How early @Jesse Owens,2
-344,"6AM for me, 5 for anyone in California or Pacific areas",2
-345,Ouch!,2
-346,Here's its 6:40PM in India,2
-347,"Here, Iran, is 4.40 PM",2
-348,"I am good with the current schedule, here in Colombia is 8:00",2
-349,If it makes sense to move the meeting back an hour then I don't mind.,2
-350,5 am is a bit early!,2
-351,We have members from almost every corner of the globe so it's especially tough to come to a consensus. We'll leave the meeting at the current time for next week and let team members who weren't here today comment on the blog post.,2
-352,Meeting time Ok for me 6:40PM in india,2
-353,"As far as the time change adjustment:
+"Basically, other users can then also provide the links to documentation, but only if they are on the official site for support/documentation of that plugin/theme",3
+I think that is a very reasonable suggestion.,3
+W.org links should also be allowed methinks,3
+Or 3rd party sites such as wpbeginer.,3
+This way there is no grey area of linking to your own personal site because it has the documentation as well,3
+I often point people at real W.org docs to explain a feature of my plugin,3
+s/wpbeginer/reputable 3rd party site/,3
+"W.org links are self-proclaimed OK, always, but yes",3
+"So, what about a less well-known third party site, Jan?",3
+"No, now wpbeginners, nothing else external at all",3
+Who decides what is reputable?,3
+That is good idea. Now it reminds me there will be contributor day at WCAsia. Who are coming?,2
+"Yeah, it's barely one month away!",2
+"Ok, interesting!",2
+Are you going @chetan200891?,2
+"Yes, I am going",2
+Will have to give it a miss this year but will try for next year.,2
+https://2020.asia.wordcamp.org/contributor-day/ Here is schedule. But I hope we can get training table there. (edited),2
+"Do we need to reach out in #wcasia to see who we can talk to about arranging that, Chetan?",2
+"I'll be at WordCamp Lancaster PA March 14th & WordCamp DC March 27-29, 2020.",2
+Yes we should.,2
+I have asked two people but waiting for reply since few days.,2
+"I’m on the org team for WordCamp Chicago, if any interest for a meetup or someting.",2
+May 2 -3,2
+"OK, @chetan200891 let's go ahead and ask in the public channel, sometimes that's better to get the right people",2
+"Though, maybe wait till a reasonable hour for Asia",2
+"Scott and Courtney, we'd definitely appreciate your assistance with setting up Training for your Contributor days. As organizers, you'll probably be too busy to actually run the table, do you know anyone local who might want to join up ahead of your camps?",2
+Due to my time zone the hours adjustment hasn't made a big difference so I'm not too worried about changing the time.,2
+I missed most of last week’s session cause of daylight saving but have amended this moving forward. Probably just need a prompt next time we change over.,2
+"For those of us in the western half of North America, it's quite early in the morning. I know @aurooba and I at least are affected",2
+"The meeting time is OK to me, and I think it's OK in my timezone. (edited)",2
+How early @Jesse Owens,2
+"6AM for me, 5 for anyone in California or Pacific areas",2
+Ouch!,2
+Here's its 6:40PM in India,2
+"Here, Iran, is 4.40 PM",2
+"I am good with the current schedule, here in Colombia is 8:00",2
+If it makes sense to move the meeting back an hour then I don't mind.,2
+5 am is a bit early!,2
+We have members from almost every corner of the globe so it's especially tough to come to a consensus. We'll leave the meeting at the current time for next week and let team members who weren't here today comment on the blog post.,2
+Meeting time Ok for me 6:40PM in india,2
+"As far as the time change adjustment:
 The current proposal is to move the meeting to 1400 UTC. If this time does not work for you, please comment on the blog post:
 https://make.wordpress.org/training/2019/11/14/training-team-meeting-agenda-14-november-2019/",2
-354,"WCUS starts on 1 November, and contributor day is the third",2
-355,Not long. I will endeavor to get it done by then.,2
-356,Not long at all! Time is flying by.,2
-357,"OK, Julie and I will work to get your contribution reviewed so we can move forward with it",2
-358,"Hauwa, looks like Julie took a look at your updates to What is CSS late last night/early morning for my timezone, I'll go ahead and set up the Lesson Plan repository. What other help do you need on this lesson plan?",2
-359,Yes just picked up on that. I’m familiar with Github so I’m assuming that the notes on how to complete the Lesson plan will be there.,2
-360,"More or less, yes. When a new lesson plan gets created, we make a new repository for it using a template:
+"WCUS starts on 1 November, and contributor day is the third",2
+Not long. I will endeavor to get it done by then.,2
+Not long at all! Time is flying by.,2
+"OK, Julie and I will work to get your contribution reviewed so we can move forward with it",2
+"Hauwa, looks like Julie took a look at your updates to What is CSS late last night/early morning for my timezone, I'll go ahead and set up the Lesson Plan repository. What other help do you need on this lesson plan?",2
+Yes just picked up on that. I’m familiar with Github so I’m assuming that the notes on how to complete the Lesson plan will be there.,2
+"More or less, yes. When a new lesson plan gets created, we make a new repository for it using a template:
 https://github.com/wptrainingteam/what-is-css",2
-361,"So the next step is to fork that, translate your lesson plan into Markdown inside README.md, and submit a pull request",2
-362,"Ok thanks. Will get on that during the week and if I need help, I’ll reach out on the slack channel.",2
-363,"are there plans to ""reactify"" other parts of wp backend?",2
-364,There always are.,2
-365,Are there any specific features we need to target to improve our knowledge when testing?,2
-366,"editor, site health, editor and editor",2
-367,"https://make.wordpress.org/core/5-4/
-roadmap, if needed. (edited)",2
-368,I haven't thought of a strategy yet. Maybe the team here could help me with ideas.,2
-369,"Or you could join us on pt-BR, @marcio-zebedeu!",2
-370,"I don't ahve any direct strategies I can think of, spreading the word about support is a difficult one",2
-371,But sharing it with your local meetup for example might be a great first step,2
-372,Yep...  I think it's a great idea to talk about dating about support. (edited),2
-373,"Maybe write an article about, I can reach more people through linkin.",2
-374,Absolutely! social media is a great way as well to share the knowledge,2
-375,are you starting your own wp meetup?,2
-376,but I think only the meeting groups will be more efficient,2
-377,"i would try posting your meetup to your local city chamber, they're usually all about local stuff",2
-378,i don't know about other cities but i'm part of the latino and asian chamber of commerce in my town,2
-379,"@marcio-zebedeu There is this post that we created for our locale: https://br.wordpress.org/2020/01/21/por-que-voce-pode-e-deve-participar-do-forum-de-suporte-da-comunidade-wordpress/
-We also contacted with some local YouTubers, Influencers, and Blogs, and they created some content highlighting our forums. (edited)",2
-380,"they usually do monthly newsletter via email, showing its members on what's going on around the city. mostly events",2
-381,"I’d like to propose that we request Otto to write some guidelines for moderators.
-Why?
-He’s the one who enforces them.
-Why not write them ourselves?
-Bad things come from writing one’s own guidelines, especially as a committee.",2
-382,"(the Guidelines to be publicly published, likely in our Handbook)",2
-383,"And as there's not much activity on the when, I'm going to self-propose Tuesday at the same time as our weekly meetings are usually held",2
-384,"It's always good to have some goals, so I'm interested in hearing thoughts on what our collective goals as the support team might be for 2020. Doesn't need ot be big or small, just something you all think is achievable (edited)",2
-385,fewer distracting GIFs?,2
-386,"Just curious, did we do any of our goals from 2019 or before?",2
-387,We've never done a goals thing like this (edited),2
-388,Did we have a rewrite of something still ongoing?  Could be a goal to complete that.,2
-389,"meta put Support tickets as the next ""thing to do""",2
-390,(as a question to the group) Are there places where you think we're falling short?,2
-391,editor questions go unaddressed for a long time,2
-392,I think a fair goal is to recruit more volunteers who are well versed in the block editor,2
-393,So what does our international friends think about goals for 2020?,2
-394,"in Italy 
- we are translating Support Handbook, the goal is to finish it,  and starting a new team for Helphub translation too, a cross Team between Supporters and Polyglots (edited)",2
-395,"In Spain everything fine 
-Regarding goals for 2020 … the huge one is to translate helphub
-Nothing new at forums",2
-396,We are new and we starting a new team to help in our locals (edited),2
-397,"I know that there was a lot of work done last year, but I still think we could do better at leading people to the forums from wordpress.org/support",2
-398,"There's an open ticket on that, I think.",2
-399,"I guess we have no special goals for the quiet Swedish forum except to continue responding well and not leave threads without any answer for more than a couple of days. It would also be nice to get a few more stable contributors there, but me being far away from any possible Swedish WordCamps and meetups means it's hard to recruit (edited)",2
-400,"I believed this was mentioned recently, but improving the search function. It's at the top of the page but results aren't great. Easier to search from Google.",2
-401,Still waiting for that ticket about better showing when there are things pending in the queues is important for small international destinations,2
-402,"Was there something about being able to see the ones that the OP replied, so it's no longer in No Replies?",2
-403,and... the old idea of having an International Support Day (like Polyglots)?,2
-404,... and what would it be like? 24 hour streaming in various languages? Could be fun...,2
-405,Well isn't an Accessibility Day also underway ?,2
-406,"Just mentioning since more & more people will have insights of how an event like this could be made to help out on a Support Day as well ( in case help's needed 
- )",2
-407,"Looks fun, but the Translation Days that we did, I have to say where also a bit stressy ! haha",2
-408,"I believe a support day can be a bit easier, almost like a multilingual virtual wordcamp",2
-409,Translations us simply a more limited topic,2
-410,"I think they'll be fine, with a quick glance yeah",4
-411,"OK, those PR's have been merged now!",4
-412,Sure is,4
-413,"(And no, it's not because I don't want to, but I really want more folks to get more involved 
+"So the next step is to fork that, translate your lesson plan into Markdown inside README.md, and submit a pull request",2
+"Ok thanks. Will get on that during the week and if I need help, I’ll reach out on the slack channel.",2
+"are there plans to ""reactify"" other parts of wp backend?",2
+There always are.,2
+Are there any specific features we need to target to improve our knowledge when testing?,2
+"I think they'll be fine, with a quick glance yeah",4
+"OK, those PR's have been merged now!",4
+Sure is,4
+"(And no, it's not because I don't want to, but I really want more folks to get more involved 
  ) (edited)",4
-414,C#,4
-415,There is also things like new filters for plugins to add user meta fields to that need to be included in the export.,4
-416,right,4
-417,"hopefully, Twenty Sixteen will not be bundled.",4
-418,"Think of it as “Developers, the next time you can find time to turn your shortcode into a block, please do.” right now.
+C#,4
+There is also things like new filters for plugins to add user meta fields to that need to be included in the export.,4
+right,4
+"hopefully, Twenty Sixteen will not be bundled.",4
+"Think of it as “Developers, the next time you can find time to turn your shortcode into a block, please do.” right now.
 We have not yet reached “Users, panic and find an alternative for the shortcode plugin you’re using.”",4
-419,backwards compatibility (probably),4
-420,most likely for a long time,4
-421,how often do regular users check server logs,4
-422,Regular non tech users? Probably rarely,4
-423,slim to none,4
-424,dont really use GDPR cookie consent stuff :),4
-425,I’ll put that in the “Open Floor” notes,4
-426,Sounds good,4
-427,This is a good read: https://www.welcometothejungle.com/en/articles/btc-discussion-open-source-maintenance,4
-428,Is the issue with ThemeGrill fixed?,4
-429,1.6.2 fixes it,4
-430,was it something that was in other importers also?,4
-431,duplicator,4
-432,"Yes, duplicator been fixed too.",4
-433,probably before that blog was posted,4
-434,but not in the WP importer?,4
-435,There's no known issues wit hthe WP Importer,4
-436,"The plugin/theme auto-update thing got punted to 5.5, right?",4
-437,even though I asked the reviewer to open a support request,4
-438,"p.s: I think their issues are valid, nonetheless",4
-439,done -- replied and closed,4
-440,"Just of matter of who’s doing it, and when.",4
-441,comments for example,4
-442,waiting for spring strings,4
-443,@marcio-zebedeu is your W.org nickname the same as here (for notes)?,4
-444,portugese angola?,4
-445,username wp.org @ marcio-zebedeu,4
-446,danke,4
-447,done with that yet?,4
-448,I really believe that forums and docs should be language-based as I said before somewhere.,4
-449,"Also, a https://dev.to article? (edited)",4
-450,might be,4
-451,Noone ?,4
-452,"Perfect, thanks Steven!",4
-453,Is this thing mentioned in the WTFBBQ?,4
-454,"I'm using a scriptblocker in my browser. When I installed a new site at some point, I could get surprisingly far in the process before suddenly I got some weird error. Some kind of no-js warning banner in wp-admin would be golden.",4
-455,"It exists for no-js, but not for js-but-missing-something",4
-456,I,4
-457,"say something noteworthy, Jeff.",4
-458,"""reins""",4
-459,tickets?,4
-460,Trac tickets...,4
-461,(We're talking an hour or so generally),4
-462,Ah!,4
-463,"Here's a shorter link if it helps 
- https://meta.trac.wordpress.org/query?status=!closed&component=Support+Forums",4
-464,"But yes, what they said",4
-465,And the content at that link is available via RSS!,4
-466,Be nice y'all.,4
-467,"Angi, I do respect and appreciate that but litterally anyone can reply well there.",4
-468,"I added to your reply, Steve.",4
-469,I'll send you a link where you can direct something that looks like it may make a good blog post related to .org,4
-470,try again?,4
-471,I try to be CANADIAN.,4
-472,(I'm not which is known.),4
-473,Plus following up with the WHY that wouldn't help.,4
-474,I fail at not being Welsh,4
-475,Again.,4
-476,good good,4
-477,"(I forgot to 
- but I'm here lurking haha)",4
-478,@Carike Which translation is that?,4
-479,Will send you a DM now,4
-480,It would be ok to say here.....?,4
-481,It is sleek and modern.,4
-482,Just want to say I am really glad there was such a productive solution to the links.,4
-483,"Thanks, Clorith.",4
-484,no... I think that's how we got here,4
-485,https://wordpress.slack.com/archives/C02RQC6RW/p1579799810059100,4
-486,https://wordpress.slack.com/archives/C02RQC6RW/p1579799887060700,4
-487,https://media.giphy.com/media/1k0ZA4S6MoRew59Ukq/200w_d.gif,4
-488,:oh:,4
-489,Marius trying new things,4
-490,dangit,4
-491,"Good timing, do you have anything at the top?",4
-492,I really need prompting,4
-493,I merged it already,5
-494,"Very nice, thanks!",5
-495,@Iqbal Bary have you had a chance to check out https://make.wordpress.org/training/handbook/getting-started/,5
-496,"Not yet, I’m checking it now",5
-497,"I'll go ahead and merge it into the Dev branch, and move it over to Instructional Review.",5
-498,"Thanks for joining us! I saw your issue regarding the XML import for the development environment, we do need to get that updated. In the meantime, you can use the WP-CLI commands to properly import the site content (see step 7)
+backwards compatibility (probably),4
+most likely for a long time,4
+how often do regular users check server logs,4
+Regular non tech users? Probably rarely,4
+slim to none,4
+dont really use GDPR cookie consent stuff :),4
+I’ll put that in the “Open Floor” notes,4
+Sounds good,4
+This is a good read: https://www.welcometothejungle.com/en/articles/btc-discussion-open-source-maintenance,4
+Is the issue with ThemeGrill fixed?,4
+1.6.2 fixes it,4
+was it something that was in other importers also?,4
+duplicator,4
+"Yes, duplicator been fixed too.",4
+probably before that blog was posted,4
+but not in the WP importer?,4
+There's no known issues wit hthe WP Importer,4
+"The plugin/theme auto-update thing got punted to 5.5, right?",4
+even though I asked the reviewer to open a support request,4
+"p.s: I think their issues are valid, nonetheless",4
+done -- replied and closed,4
+"Just of matter of who’s doing it, and when.",4
+comments for example,4
+waiting for spring strings,4
+@marcio-zebedeu is your W.org nickname the same as here (for notes)?,4
+portugese angola?,4
+username wp.org @ marcio-zebedeu,4
+danke,4
+done with that yet?,4
+I really believe that forums and docs should be language-based as I said before somewhere.,4
+"Also, a https://dev.to article? (edited)",4
+might be,4
+I merged it already,5
+"Very nice, thanks!",5
+@Iqbal Bary have you had a chance to check out https://make.wordpress.org/training/handbook/getting-started/,5
+"Not yet, I’m checking it now",5
+"I'll go ahead and merge it into the Dev branch, and move it over to Instructional Review.",5
+"Thanks for joining us! I saw your issue regarding the XML import for the development environment, we do need to get that updated. In the meantime, you can use the WP-CLI commands to properly import the site content (see step 7)
 https://github.com/wptrainingteam/learn-theme-beta/blob/master/readme.md",5
-499,Are you not getting lesson plans imported?,5
-500,"The issue was regarding changing the Post Type slug from lesson_plan to lesson-plan, the XML import file wasn't updated after we made that change",5
-501,I had same issue for quick fix. I have deactivated Jetpack and Activated again. That worked for me. You should give it a try.,5
-502,"No there isn't any conflicts, I create new page for 'Workshop Ideas' and also I edit header and footer file in themes folder, but just a bit.",5
-503,What's the difference between do_shortcode and the proposed new apply_shortcode ?,5
-504,"No difference, it's just an alias to make it more obvious comapred to other similar functions",5
-505,there isn’t any. it’s simply an alias,5
-506,ideally we’ll be teaching apply_shortcode going forward to be correct,5
-507,so do_shortcode will be deprecated?,5
-508,"eventually, but not immediately",5
-509,Is there a guideline for taking notes?,5
-510,"Nope, you're pretty free, it's basically jsut summarising what is said",5
-511,This requires people who have code knowledge – yes?,5
-512,"You're not expected to have integral knowledge of code, or the trac or anything, you'll be asked to provide feedback and thoughts on tickets, and if we think they are worth pursuing, and how important they are to us (edited)",5
-513,How would someone peruse these tickets before hand?,5
-514,"For anyone who's never taken part in a bug scrub/ticket triage before, what essentially happens is that the facilitator (in this case, me, or someone else as well if they'd like to, we're very inclusive here) prepares a set of tickets ahead of time they'd like to consider..
+Are you not getting lesson plans imported?,5
+"The issue was regarding changing the Post Type slug from lesson_plan to lesson-plan, the XML import file wasn't updated after we made that change",5
+I had same issue for quick fix. I have deactivated Jetpack and Activated again. That worked for me. You should give it a try.,5
+"No there isn't any conflicts, I create new page for 'Workshop Ideas' and also I edit header and footer file in themes folder, but just a bit.",5
+What's the difference between do_shortcode and the proposed new apply_shortcode ?,5
+"No difference, it's just an alias to make it more obvious comapred to other similar functions",5
+there isn’t any. it’s simply an alias,5
+ideally we’ll be teaching apply_shortcode going forward to be correct,5
+so do_shortcode will be deprecated?,5
+"eventually, but not immediately",5
+Is there a guideline for taking notes?,5
+"Nope, you're pretty free, it's basically jsut summarising what is said",5
+This requires people who have code knowledge – yes?,5
+"You're not expected to have integral knowledge of code, or the trac or anything, you'll be asked to provide feedback and thoughts on tickets, and if we think they are worth pursuing, and how important they are to us (edited)",5
+How would someone peruse these tickets before hand?,5
+"For anyone who's never taken part in a bug scrub/ticket triage before, what essentially happens is that the facilitator (in this case, me, or someone else as well if they'd like to, we're very inclusive here) prepares a set of tickets ahead of time they'd like to consider..
 During the hour, the tickets are provided, a quick summary of what they are about is providfed, and then input from the other participants is taken into account to make sure the best choise is made for how to proceed with it later",5
-515,"Tickets can be viewed ahead of time at this link: https://meta.trac.wordpress.org/query?status=accepted&status=assigned&status=new&status=reopened&status=reviewing&component=Support+Forums&order=priority
+"Tickets can be viewed ahead of time at this link: https://meta.trac.wordpress.org/query?status=accepted&status=assigned&status=new&status=reopened&status=reviewing&component=Support+Forums&order=priority
 (it's a long link, don't be discouraged by that, it just says that it should only show tickets that are not yet resolved)",5
-516,and you can comment on those at any time,5
-517,"which leads me to my open floor rant:  <rant> If you're referring a poster elsewhere (to a sub-forum or external site) give them the link.  If you don't have time to look it up, don't respond.  </rant>",5
-518,"I agree with Steve. If you want to help them then help them as best you can, don't leave them hanging.",5
-519,"I joke about it but ""Embrace your inner Canadian"" is a thing. We're trying to help and educate. Read the replies, everyone there including the OP is trying.",5
-520,@jan_dembowski Agree and that is likely to cause this type of issue and a predefined reply won't help.,5
-521,"It's nice to have agreement. 
- I replied that way to do a reset but also to explain somewhat. The OP's got a misunderstanding and that could have been pointed out better by me. But as I wrote above, someone's misunderstanding doesn't define the other person's role. It should have been cleared up WHY reporting that there isn't productive.",5
-522,"I'll see how it goes. The user is already at ""forgive me if I’m not impressed.""",5
-523,We don't need to have the last word.,5
-524,The OP can.,5
-525,"""Thank you for the information, I will forward it to the plugin developer so they can look into it.""
-That would be disingenuous of us as we're not.",5
-526,That was good.,5
-527,"If you know that the issue was addressed by minor updates and you know that the user does not have a WordPress installation of their own, it isn't helpful to point out that they need to contact the plugin's support forum either",5
-528,"so, to move away from the ABSTRACT and to get SPECIFIC, what would the best first reply to the OP have been?",5
-529,"I know I'm  harping on that, but I need to see a specific and then I'll figure out the abstract case.",5
-530,An example by means of a reply there would be best.,5
-531,It's easy to say that could have gone better. That's almost always true in everything and isn't productive.,5
-532,I really believe my answers there was the best I had at the moment and I stand on that.,5
-533,"For this specific one....Explain that WordPress, by default, doesn't include a contact form. Individual sites can use 3rd party apps to add contact forms. Contacting the individual sites where the spam came from to let them know their contact form is causing spam. (More details but  that's the gist)",5
-534,"I don't even see how the spam happened. Shouldn't the email have gone to the site, if it was from the contact form? So like Jeff said, it didn't really come from the contact form.",5
-535,"I think so too, Jeff.",5
-536,Compromised sites spam. Old problem TBH.,5
-537,Putting in another sender so the recipient copy is sent to the wrong person is also a thing,5
-538,"Many ways to abuse a contact form, that said, we have thi the top of the hour",5
-539,"One question though on not theme or plugin related topics. Example: can I still link to a personal blog article which explains the steps/solution to a wp issue? Or a wpbeginner link, or anything really? Is this new rule only applying to theme/plugin related stuff such as Knowledge base etc (edited)",5
-540,"As someone who is both a moderator, and who has done this before, it would be better to get your content into an answer on the forums, rather than linking off.
-The forums are searchable and will be the first place people look for answers. (edited)",5
-541,"I totally get the allure, believe me, but it would be better for the community as a whole to have these answers in whole on WordPress.org.",5
-542,Copying over someone else's blog content just like that is scummy / a violation of copyright though.,5
-543,"The example was in regarding to linking to one’s own site. So, it wouldn’t be a copyright concern for them to copy/paste (or adapt/re-write) their own content.",5
-544,I was replying to Jeroen’s question. “can I still link to a personal blog article which explains the steps/solution to a wp issue?”,5
-545,"In a general topic, which is not tied to any theme or plugin issue that is (edited)",5
-546,"I, personally, wouldn't copy/paste my own content since then it's possible that my own site would complete with wp.org for the same content and I would never win that battle. So re-writing/adapting would be a better option",5
-547,"You're all lovely, and thank you all so much for stepping up to help new locales get sitauted!",0
-548,Sorry... I can't write so fast because I need to translate before,0
-549,"@marcio-zebedeu No apologies needed (you may also write in your native language if that is more comfortable to you 
+and you can comment on those at any time,5
+"which leads me to my open floor rant:  <rant> If you're referring a poster elsewhere (to a sub-forum or external site) give them the link.  If you don't have time to look it up, don't respond.  </rant>",5
+"I agree with Steve. If you want to help them then help them as best you can, don't leave them hanging.",5
+"I joke about it but ""Embrace your inner Canadian"" is a thing. We're trying to help and educate. Read the replies, everyone there including the OP is trying.",5
+"You're all lovely, and thank you all so much for stepping up to help new locales get sitauted!",0
+Sorry... I can't write so fast because I need to translate before,0
+"@marcio-zebedeu No apologies needed (you may also write in your native language if that is more comfortable to you 
  )",0
-550,Lurks,0
-551,"The number with the digits, yes.",0
-552,"slips in late, again",0
-553,HI GLENN!,0
-554,I'm here just busy.,0
-555,Hi,0
-556,That Clorith fella has been pushing the no flag on first offense for years,0
-557,"Darn, Steven's on point!",0
-558,"""akismeteers""",0
-559,Akis-me-toos,0
-560,SLEEP IS FOR THE WEAK!,0
-561,Someone grab the reins down in Africa.,0
-562,That's funnier when written.,0
-563,please no porn,0
-564,"ooh, ello",0
-565,I spotted it was starting for once!,0
-566,woot woot!,0
-567,DAMMIT DEMBOWSKI,0
-568,Lovely to see you all!,0
-569,Your friendly neighbourhood @clorith will handle the technical stuff so you don't have to,0
-570,Someone will actually be asking your opinion about the forums!!!!,0
-571,Showoff,0
-572,That's lovely !,0
-573,I want my money back,0
-574,"@diddledan please pack your website in its original shipping container, affix the UPS return shipping label, and place on your porch for pickup.",0
-575,Daily emails “where is my order from X” umm...that ain’t us.,0
-576,"@sterndata no, you do it. I paid so it's your problem whistle",0
-577,Is that our goal?  Asking for a friend.,0
-578,"(Which yeah, is what rude people say but I'm really not.)",0
-579,<slides in late...>,0
-580,sneaks lately,0
-581,and no rick rolling,0
-582,I actually rahter like that song,0
-583,never gonna give you up!,0
-584,"slides in very late, reading backscroll.....",0
-585,"Wonderful to hear from you all 
- (edited)",0
-586,Gutenmeeting,0
-587,Sounds like a goal you've just met!,0
-588,sneaking late (edited),0
-589,getting off the bus in a minute,0
-590,"but then again, people don't understand that you have to keep WP updated",6
-591,Update fatigue is real.,6
-592,"but then again, people don't understand that you have to keep WP updated
+Lurks,0
+"The number with the digits, yes.",0
+"slips in late, again",0
+HI GLENN!,0
+I'm here just busy.,0
+Hi,0
+That Clorith fella has been pushing the no flag on first offense for years,0
+"Darn, Steven's on point!",0
+"""akismeteers""",0
+Akis-me-toos,0
+SLEEP IS FOR THE WEAK!,0
+Someone grab the reins down in Africa.,0
+That's funnier when written.,0
+please no porn,0
+"ooh, ello",0
+I spotted it was starting for once!,0
+woot woot!,0
+DAMMIT DEMBOWSKI,0
+"but then again, people don't understand that you have to keep WP updated",6
+Update fatigue is real.,6
+"but then again, people don't understand that you have to keep WP updated
 A topic for /health-check ?",6
-593,".. and pay for support. Some are demanding support , because their paid support subscription is over... Not very smart people...",6
-594,...Especially for commercial stuff,6
-595,"We tell people that they should enable auto updates so that they can get security updates (which makes sense), but then stuff happens and we wonder why people do not want to update.",6
-596,you also gotta pair that auto update with a backup plugin,6
-597,just in case,6
-598,"(Something like: WordPress can't see if you've got access to update these third-party items, but please keep in mind that you need to keep everything installed up-to-date...)",6
-599,https://ru.wordpress.org/support/topic/%d1%83%d0%b1%d1%80%d0%b0%d1%82%d1%8c-youtube-%d0%ba%d0%bd%d0%be%d0%bf%d0%ba%d0%b8-%d1%81-%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d1%84%d0%be%d0%bd%d0%b0/,6
-600,I liken that to seatbelts. They will save your life. Is it also possible that in very rare circumstances they will strangle you to death after a crash? Yep.,6
-601,"you also gotta pair that auto update with a backup plugin
-Backup is best done outside of WordPress",6
-602,or get a really bad bruise the shape of a seatbelt,6
-603,Blaming the user doesn't help.  Building user trust helps.,6
-604,@tobifjellner true but end users don't do any of that,6
-605,WordPress has certainly made leaps and bounds to get ahead of a site breaking and letting the user know. Definitely better than what it used to be.,6
-606,"you also gotta pair that auto update with a backup plugin
-While backing up is a great idea, for people with sensitive data on their systems, access to the data is more of a concern than needing to bring the site back up from a backup.
-They go with what they trust.",6
-607,the problem is that most users aren't presented with a guide or a to do list after installing wordpress,6
-608,"That sounds correct, yes, since the editor scripts would not be loaded that way, and would then fail",6
-609,"Chrome 70 will likely help with scenarios like that, where it autoamtically upgrades requests to https if there's mixed content like that",6
-610,"Chrome 80, you mean?",6
+".. and pay for support. Some are demanding support , because their paid support subscription is over... Not very smart people...",6
+...Especially for commercial stuff,6
+"We tell people that they should enable auto updates so that they can get security updates (which makes sense), but then stuff happens and we wonder why people do not want to update.",6
+you also gotta pair that auto update with a backup plugin,6
+just in case,6
+"(Something like: WordPress can't see if you've got access to update these third-party items, but please keep in mind that you need to keep everything installed up-to-date...)",6
+https://ru.wordpress.org/support/topic/%d1%83%d0%b1%d1%80%d0%b0%d1%82%d1%8c-youtube-%d0%ba%d0%bd%d0%be%d0%bf%d0%ba%d0%b8-%d1%81-%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d1%84%d0%be%d0%bd%d0%b0/,6
